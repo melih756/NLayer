@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "55549cd6-2933-4117-a108-45312d316b5d": {
+      "ProjectGuid": "55549cd6-2933-4117-a108-45312d316b5d",
+      "DisplayName": "NLayer.Core",
+      "ColorIndex": 0
+    },
+    "f9efd40b-b8ad-4d9b-890f-584037240b52": {
+      "ProjectGuid": "f9efd40b-b8ad-4d9b-890f-584037240b52",
+      "DisplayName": "NLayer.Repository",
+      "ColorIndex": 1
+    },
+    "74e6c5e7-06e4-4788-a734-9ff5c5d759bc": {
+      "ProjectGuid": "74e6c5e7-06e4-4788-a734-9ff5c5d759bc",
+      "DisplayName": "NLayer.API",
+      "ColorIndex": 2
+    },
+    "b1675752-e718-4ddc-a3ae-75a8a3fb8a13": {
+      "ProjectGuid": "b1675752-e718-4ddc-a3ae-75a8a3fb8a13",
+      "DisplayName": "NLayer.Service",
+      "ColorIndex": 3
+    },
+    "10026354-406d-41d6-9db1-088a5cfe68e9": {
+      "ProjectGuid": "10026354-406d-41d6-9db1-088a5cfe68e9",
+      "DisplayName": "NLayer.Web",
+      "ColorIndex": 4
+    },
+    "2091ff6b-6e2e-445c-9d84-d98a76b70169": {
+      "ProjectGuid": "2091ff6b-6e2e-445c-9d84-d98a76b70169",
+      "DisplayName": "NLayer.Caching",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
